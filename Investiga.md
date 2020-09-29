@@ -20,7 +20,18 @@ Permite la distribución de copias de programas (incluso cobrar por ello), así 
 >>> * Pamac tiene otro lanzamiento puntual con muchas correcciones de errores, concretamente y como vemos en la imagen, Pamac 9.5.9.
 >>> * VirtualBox 6.1.14, que admite oficialmente la serie 5.8 del kernel 5.8.  
 >>> * Gnome 3.36.6 viene con correcciones de HiDPI y la pantalla de bloqueo.  
->>> * Actualizaciones y reconstrucciones habituales de paquetes de Python y Haskell.
+>>> * Actualizaciones y reconstrucciones habituales de paquetes de Python y Haskell. 
+>
+>> 2. Ulyana (Linux Mint 20): 
+>>> * Lanzado en 05-2020
+>>> * En el editor de texto Xed se ha agregado soporte para concatenar líneas y eliminar líneas vacías antes de guardar el archivo.
+>>> * En Xviewer, se han agregado botones al panel para cambiar al modo de pantalla completa y mostrar una presentación de diapositivas de gran formato.
+>>> * En el visor de documentos Xreader, se agrega un botón para imprimir al panel.
+>>> * La interfaz de Gdebi ha sido completamente rediseñada, utilidades para abrir e instalar paquetes deb.
+>>> * Se agregaron nuevos iconos de directorio amarillos.
+>>> * En la interfaz de bienvenida de inicio de sesión, se le solicita al usuario que seleccione un esquema de color.
+>>> * Se agregó soporte para estirar la imagen de fondo en varios monitores a la pantalla de inicio de sesión (Slick Greeter).
+>>> * Apturl ha cambiado el backend de Synaptic a Aptdaemon.
 #### ¿Qué es Unix? ¿En que se diferencian Unix y Linux? 
 > * **Unix** es un sistema operativo ***portable, multitarea y multiusuario***, desarrollado en 1969 por un grupo de empleados de los laboratorios **Bell** de **AT&T**. 
 > * Diferencias entre ***Unix*** y ***Linux***: 
