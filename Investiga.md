@@ -49,7 +49,15 @@ Permite la distribución de copias de programas (incluso cobrar por ello), así 
 >>> * En esta versión se incluye soporte para ***arranque seguro*** en las arquictecturas **amd64, i386 y arm64** y debería funcionar sin modificación en la mayoría de los sistemas que disponen de este.
 >>> * Se proporciona soporte a diez arquitecturas. 
 >
->> 5. 
+>> 5. Elementary 5.1 (Hera):
+>>> * Lanzado en 2019-12-3
+>>> *  Se introdujo un nuevo diseño de la pantalla de inicio de sesión y protectores de pantalla durante el bloqueo de pantalla, junto con los cuales se integra las soluciones para trabajar con las pantallas HiDPI.
+>>> * Se añade el soporte para Flatpak de manera nativa en el nuevo AppCenter.
+>>> * Dentro de esta se incluye una nueva característica central incluida en esta versión, se llama Sideload.
+>>> * La ventana del modo ***picture in picture*** ahora se muestra por defecto en la esquina inferior derecha de la pantalla.
+>>> * Las ventanas de configuración del sistema se han rediseñado, incluidos los cuadros para Bluetooth, audio y pantalla.
+>>> * La confiabilidad del agente se ha incrementado. 
+
 #### ¿Qué es Unix? ¿En que se diferencian Unix y Linux? 
 > * **Unix** es un sistema operativo ***portable, multitarea y multiusuario***, desarrollado en 1969 por un grupo de empleados de los laboratorios **Bell** de **AT&T**. 
 > * Diferencias entre ***Unix*** y ***Linux***: 
