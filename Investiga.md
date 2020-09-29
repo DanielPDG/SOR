@@ -17,4 +17,7 @@ Permite la distribución de copias de programas (incluso cobrar por ello), así 
 >> 2. Linux es un clon del sistema Unix original, aunque no contiene su código.
 >> 3. Linux es solo el núcleo del sistema, mientras que Unix es un sistema operativo completo.
 >> 4. Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores.
->> 5. Linux soporta más tipos de sistemas de archivos que Unix.
+>> 5. Linux soporta más tipos de sistemas de archivos que Unix. 
+ 
+#### Busca en Youtube un vídeo de los servicios que ofrece un servidor. 
+> [Vídeo](https://www.youtube.com/watch?v=hhOPnVb040s)
