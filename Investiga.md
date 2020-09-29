@@ -31,7 +31,15 @@ Permite la distribución de copias de programas (incluso cobrar por ello), así 
 >>> * Se agregaron nuevos iconos de directorio amarillos.
 >>> * En la interfaz de bienvenida de inicio de sesión, se le solicita al usuario que seleccione un esquema de color.
 >>> * Se agregó soporte para estirar la imagen de fondo en varios monitores a la pantalla de inicio de sesión (Slick Greeter).
->>> * Apturl ha cambiado el backend de Synaptic a Aptdaemon.
+>>> * Apturl ha cambiado el backend de Synaptic a Aptdaemon. 
+>
+>> 3. Ubuntu 20.04: 
+>>> * Está basado en el kernel de Linux 5.4, con soporte técnico extendido, e incluye la nueva versión del entorno de escritorio Gnome, Gnome 3.36, por defecto.
+>>> * Seguridad y rendimiento mejorados.
+>>> * Menor tiempo de arranque y mejoras importantes a nivel de ahorro energético.
+>>> * Gnome 3.36 como entorno de escritorio por defecto mejora el rendimiento y la usabilidad en Ubuntu 20.04 LTS. 
+>
+>> 4. 
 #### ¿Qué es Unix? ¿En que se diferencian Unix y Linux? 
 > * **Unix** es un sistema operativo ***portable, multitarea y multiusuario***, desarrollado en 1969 por un grupo de empleados de los laboratorios **Bell** de **AT&T**. 
 > * Diferencias entre ***Unix*** y ***Linux***: 
