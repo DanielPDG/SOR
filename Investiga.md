@@ -5,11 +5,22 @@ Permite la distribución de copias de programas (incluso cobrar por ello), así 
 > * La diferencia es que el __Software libre__ es gratis, lo que hace que puedas modificarlo y mejorarlo a tu gusto, en cambio, un __Software comercial__ es aquel que solo puedes conseguir pagando una cantidad de dinero, y no puedes modificarlo a tu gusto.  
 #### ¿Qué es una distribución? Nombras las distribuciones de Linux mas usuales. 
 > * Una ***distribución de software*** está basada en el núcleo **Linux** que incluye determinados paquetes de software para satisfacer las necesidades de un grupo específico de usuarios. 
->>> 1. ***Manjaro*** --> 
->>> 2. ***Linux Mint*** --> 
->>> 3. ***Ubuntu*** --> 
->>> 4. ***Debian*** --> 
->>> 5. ***Elementary*** --> 
+>> 1. ***Manjaro***
+>> 2. ***Linux Mint***
+>> 3. ***Ubuntu***
+>> 4. ***Debian***
+>> 5. ***Elementary*** 
+#### Últimas versiones: 
+>> 1. Mikah (Manjaro 20.1):
+>>> * Lanzado en 2020-09-11.
+>>> * La mayoría de los núcleos has sido actualizados.  
+>>> * Algunas actualizaciones más de paquetes de KDE-git y Deepin.  
+>>> * Los administradores de contraseñas como bitwarden y enpass se agregaron a los repositorios.
+>>> * Se ha mejorado MHWD para mejorar la gestión del paquete.  
+>>> * Pamac tiene otro lanzamiento puntual con muchas correcciones de errores, concretamente y como vemos en la imagen, Pamac 9.5.9.
+>>> * VirtualBox 6.1.14, que admite oficialmente la serie 5.8 del kernel 5.8.  
+>>> * Gnome 3.36.6 viene con correcciones de HiDPI y la pantalla de bloqueo.  
+>>> * Actualizaciones y reconstrucciones habituales de paquetes de Python y Haskell.
 #### ¿Qué es Unix? ¿En que se diferencian Unix y Linux? 
 > * **Unix** es un sistema operativo ***portable, multitarea y multiusuario***, desarrollado en 1969 por un grupo de empleados de los laboratorios **Bell** de **AT&T**. 
 > * Diferencias entre ***Unix*** y ***Linux***: 
