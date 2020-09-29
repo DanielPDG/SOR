@@ -39,7 +39,17 @@ Permite la distribución de copias de programas (incluso cobrar por ello), así 
 >>> * Menor tiempo de arranque y mejoras importantes a nivel de ahorro energético.
 >>> * Gnome 3.36 como entorno de escritorio por defecto mejora el rendimiento y la usabilidad en Ubuntu 20.04 LTS. 
 >
->> 4. 
+>> 4. Debian 10 (Buster): 
+>>> * Lanzado el 2020-09-26.
+>>> * En esta versión GNOME utiliza de forma predeterminada el servidor de gráficos Wayland en vez de Xorg. 
+>>> * Wayland tiene un diseño más simple y moderno con más ventajas de seguridad.
+>>> * Gracias al proyecto de Compilación Reproducible, más del 91% de los paquetes fuentes incluidos en Debian compilarán paquetes binarios idénticos bit-a-bit.
+>>> * El método https para APT ahora es parte del paquete apt y no es necesario instalarlo de forma separada. 
+>>> * Se utiliza de forma predeterminada el marco de trabajo nftables para filtrado de redes.
+>>> * En esta versión se incluye soporte para ***arranque seguro*** en las arquictecturas **amd64, i386 y arm64** y debería funcionar sin modificación en la mayoría de los sistemas que disponen de este.
+>>> * Se proporciona soporte a diez arquitecturas. 
+>
+>> 5. 
 #### ¿Qué es Unix? ¿En que se diferencian Unix y Linux? 
 > * **Unix** es un sistema operativo ***portable, multitarea y multiusuario***, desarrollado en 1969 por un grupo de empleados de los laboratorios **Bell** de **AT&T**. 
 > * Diferencias entre ***Unix*** y ***Linux***: 
