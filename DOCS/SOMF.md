@@ -23,5 +23,5 @@ Es un [**SO libre**](https://www.gnu.org/philosophy/free-sw.es.html) y uno de lo
 
 > ![](https://unaaldia.hispasec.com/wp-content/uploads/2015/06/e7dd4-android-logo.png)
 
-Es el SO móvil mas utilizado en todo el mundo, y fue adquirido por google en 2005. En 2017 obtuvo una cuota de mercado  superior al 80%, mucho mas que Apple.
+Es el **SO móvil** mas utilizado en todo el mundo, y fue adquirido por **Google** en 2005. En 2017 obtuvo una cuota de mercado  superior al 80%, mucho mas que Apple.
 
