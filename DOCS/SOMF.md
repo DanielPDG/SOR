@@ -19,3 +19,9 @@ Es el segundo SO mas utilizado en el mundo, y fue desarrollado por la empresa [*
 
 Es un [**SO libre**](https://www.gnu.org/philosophy/free-sw.es.html) y uno de los mas utilizados,ya que los usuarios pueden modificarlo a su antojo y es mas seguro contra las amenazas externas. Fue desarrollado por [**Linus Torvalds**](https://en.wikipedia.org/wiki/Linus_Torvalds) el 17/09/1991. 
 
+#### Android 
+
+> ![](https://unaaldia.hispasec.com/wp-content/uploads/2015/06/e7dd4-android-logo.png)
+
+Es el SO móvil mas utilizado en todo el mundo, y fue adquirido por google en 2005. En 2017 obtuvo una cuota de mercado  superior al 80%, mucho mas que Apple.
+
