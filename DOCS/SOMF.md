@@ -2,7 +2,7 @@
 
 #### WINDOWS
 
-> ![](https://i.blogs.es/b70f6e/win10/840_560.png) 
+> ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXfwCz-cap7JH1nX8q61JOWOWsWChvmZGLpw&usqp=CAU) 
 
 Este SO fue desarrollado por [**Microsoft**](https://es.wikipedia.org/wiki/Microsoft), y es el mas utilizado hoy en día, ya que hay muchas versiones de [Windows](https://es.wikipedia.org/wiki/Microsoft_Windows). Su última versión lanzada fue [Windows10](https://en.wikipedia.org/wiki/Windows_10). Además es el mas sencillo de utilizar. Fue lanzado el 29/07/2015. 
 
